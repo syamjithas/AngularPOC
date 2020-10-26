@@ -1,4 +1,9 @@
  java -jar .\listCred.jar
 
+https://github.com/dariusz-szczepaniak/java.jna.WindowsCredentialManager
+
 https://superuser.com/questions/537697/manage-another-users-credentials-for-network-access
 https://superuser.com/questions/1206443/how-to-add-cached-credentials-for-the-windows-system-acount
+
+cmdkey /generic:test.cbd.ae /user:PeteZ /pass:p4g67hjyy23
+
